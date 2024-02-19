@@ -4,42 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="617cbb06-8952-434f-afff-f9a29607eaa8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Aufgaben/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aufgaben/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aufgaben/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aufgaben/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="617cbb06-8952-434f-afff-f9a29607eaa8" name="Changes" comment="added project Interfaces&#10;updated class repeat project&#10;updated project .gitignore files">
       <change afterPath="$PROJECT_DIR$/../Aufgaben/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aufgaben/Aufgaben.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aufgaben/src/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aufgaben/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Generics/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Generics/src/WeaponSword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dragon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moveable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Playable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Klassen-Wiederholung/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Klassen-Wiederholung/src/Elf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Klassen-Wiederholung/src/Warrior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Generics/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Klassen-Wiederholung/src/Abstractum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Klassen-Wiederholung/src/Dragon.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klassen-Wiederholung/src/Dragon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aufgaben/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Aufgaben/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Klassen-Wiederholung/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Klassen-Wiederholung/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Klassen-Wiederholung/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Klassen-Wiederholung/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Klassen-Wiederholung/src/Moveable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Klassen-Wiederholung/src/Mover.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Klassen-Wiederholung/src/Playable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Klassen-Wiederholung/src/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Klassen-Wiederholung/src/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Klassen-Wiederholung/src/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Klassen-Wiederholung/src/Warrior.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,8 +76,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708333774623</updated>
-      <workItem from="1708333777007" duration="778000" />
+      <workItem from="1708333777007" duration="2435000" />
     </task>
+    <task id="LOCAL-00001" summary="added project Interfaces&#10;updated class repeat project&#10;updated project .gitignore files">
+      <option name="closed" value="true" />
+      <created>1708334567799</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708334567799</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,5 +94,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="added project Interfaces&#10;updated class repeat project&#10;updated project .gitignore files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added project Interfaces&#10;updated class repeat project&#10;updated project .gitignore files" />
   </component>
 </project>

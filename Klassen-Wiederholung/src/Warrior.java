@@ -11,6 +11,10 @@ public class Warrior extends Character {
         this.setName(name);
     }
 
+    public Warrior(){
+        super();
+    }
+
     public void setWeapon(String weapon){ this.weapon = weapon; }
 
     public String getWeapon(){ return this.weapon; }
