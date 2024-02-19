@@ -5,5 +5,7 @@ public abstract class Monster {
 
     public int getLevel(){ return this.level; }
 
+    public int levelUp(){ return ++this.level; }
+
     public abstract int attack();
 }
