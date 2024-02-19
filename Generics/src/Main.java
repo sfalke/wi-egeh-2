@@ -7,6 +7,9 @@ public class Main {
         // Wenn Spieler neue Waffe nimmt
         Weapon bow = new Weapon("bow");
         player1.set(bow);
+        WeaponSword weaponSword = new WeaponSword();
+
+
 
 
         // Mit Generics
