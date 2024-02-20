@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="617cbb06-8952-434f-afff-f9a29607eaa8" name="Changes" comment="added Aufgaben.pdf">
+    <list default="true" id="617cbb06-8952-434f-afff-f9a29607eaa8" name="Changes" comment="README angepasst, Interfaces und Generics aufgenommen">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -67,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708333774623</updated>
-      <workItem from="1708333777007" duration="10648000" />
+      <workItem from="1708333777007" duration="13862000" />
     </task>
     <task id="LOCAL-00001" summary="added project Interfaces&#10;updated class repeat project&#10;updated project .gitignore files">
       <option name="closed" value="true" />
@@ -93,17 +93,46 @@
       <option name="project" value="LOCAL" />
       <updated>1708352593424</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="README angepasst">
+      <option name="closed" value="true" />
+      <created>1708353249208</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708353249208</updated>
+    </task>
+    <task id="LOCAL-00005" summary="README angepasst, Interfaces und Generics aufgenommen">
+      <option name="closed" value="true" />
+      <created>1708353388073</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708353388073</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="added project Interfaces&#10;updated class repeat project&#10;updated project .gitignore files" />
     <MESSAGE value="runable version of Interfaces project" />
     <MESSAGE value="added Aufgaben.pdf" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Aufgaben.pdf" />
+    <MESSAGE value="README angepasst" />
+    <MESSAGE value="README angepasst, Interfaces und Generics aufgenommen" />
+    <option name="LAST_COMMIT_MESSAGE" value="README angepasst, Interfaces und Generics aufgenommen" />
   </component>
 </project>

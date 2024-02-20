@@ -59,5 +59,8 @@ public class Main {
 
         System.out.println(Aragorn.getName() + " steht an Position " + Aragorn.getPosition());
 
+
+
     }
+
 }
