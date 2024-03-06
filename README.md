@@ -14,6 +14,8 @@ Das Thema GUI wird über das Spiel Dragons vs. Wizards behandelt.
 
 Die Aufgaben dazu stehen im [Aufgaben PDF](Aufgaben.pdf).
 
-Der Quellcode befindet sich für den ersten Teil in [Dragons vs Wizards](DragonsVsWizards). Der zweite Teil befindet sich in [GUI](GUI).
+Der Quellcode befindet sich für den ersten Teil in [Dragons vs Wizards](DragonsVsWizards).
+
+Der zweite Teil befindet sich in [GUI](GUI).
 
 
